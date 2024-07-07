@@ -1,1 +1,1 @@
-## [Grindelwald-StaticMania] {https://grindel-wald.netlify.app/}
+## [Grindelwald-StaticMania](https://grindel-wald.netlify.app/)
